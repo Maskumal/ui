@@ -1,6 +1,6 @@
 {
-    "name": "laravel/ui",
-    "description": "Laravel UI utilities and presets.",
+    "name": "maskumal/laravel-ui",
+    "description": "Laravel UI utilities and presets for frontend only.",
     "keywords": ["laravel", "ui"],
     "license": "MIT",
     "authors": [
